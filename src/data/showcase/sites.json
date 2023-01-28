@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Persona poniendose lentes de contacto",
+    "image": "./images/woman1.jpg",
+    "description": "Disfruta la vida usando lentes de contacto."
+  },
+  {
+    "title": "Ojo en primer plano con lente de contacto",
+    "image": "./images/poniendo_lente.jpg",
+    "description": "Usa lentes de contacto para mayor comodidad."
+  },
+  {
+    "title": "Amigos sonriendo",
+    "image": "./images/friends.jpg",
+    "description": "Diviertete y disfruta momentos memorables con soltura y libertad."
+  },
+  {
+    "title": "Persona dejando las gafas",
+    "image": "./images/dejando_las_gafas.jpg",
+    "description": "Tira las gafas y recupera todo tu campo visual."
+  }
+]
+
+
